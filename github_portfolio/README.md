@@ -8,7 +8,7 @@
 
 Desenvolvedor Full-Stack com sólida experiência em ambientes **financeiros**, **e-commerces**, **educacionais** e **hospitalares**. Atualmente trabalhando como **Desenvolvedor de Sistemas Pleno** no Instituto Jô Clemente, focado em automação de processos e soluções em nuvem.
 
-- 🔭 Trabalhando atualmente com **Power Apps**, **AWS** e automação hospitalar
+- 🔭 Trabalhando atualmente com **Python** **Power Apps**, **AWS** e automação hospitalar
 - 🌱 Estudando **Engenharia de Software** na USP
 - 💼 **4+ anos** de experiência em desenvolvimento
 - 📍 Localizado em **São Paulo, SP, Brasil**
@@ -113,3 +113,4 @@ Desenvolvedor Full-Stack com sólida experiência em ambientes **financeiros**, 
 
 ---
 ⭐️ **"Transformando ideias em código, código em soluções!"** ⭐️
+
