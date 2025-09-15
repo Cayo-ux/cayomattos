@@ -1,0 +1,96 @@
+{
+  "profile": {
+    "name": "Cayo Matos da Silva",
+    "age": 27,
+    "location": "São Paulo, SP, Brasil",
+    "email": "cayomattos@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/cayo-matos-da-silva-0659b6116/",
+    "phone": "+55 (11) 97256-2407",
+    "cnpj": "32.102.205/0001-74"
+  },
+  "tech_stack": {
+    "languages": [
+      "Python",
+      "C#",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "HTML5",
+      "CSS3",
+      "SQL"
+    ],
+    "frameworks": [
+      "Angular",
+      ".NET Framework",
+      ".NET Core",
+      "Spring Boot",
+      "Bootstrap"
+    ],
+    "databases": [
+      "PostgreSQL",
+      "Oracle",
+      "SQL Server",
+      "MongoDB",
+      "Redis",
+      "DynamoDB",
+      "MySQL"
+    ],
+    "cloud": [
+      "AWS (EC2, S3, RDS, Lambda, API Gateway, CloudWatch, IAM)"
+    ],
+    "tools": [
+      "Docker",
+      "Git",
+      "Visual Studio",
+      "VS Code",
+      "Power Apps",
+      "Splunk",
+      "Grafana"
+    ],
+    "methodologies": [
+      "Scrum",
+      "Kanban",
+      "SOLID",
+      "Clean Code",
+      "OOP",
+      "REST APIs",
+      "GraphQL"
+    ]
+  },
+  "experience": [
+    {
+      "company": "Instituto Jô Clemente (IJC)",
+      "position": "Desenvolvedor de Sistemas Pleno",
+      "period": "01/2025 - Atualidade",
+      "description": "Desenvolvimento de aplicativos Power Apps, soluções AWS, automação hospitalar com Tasy, BI e Docker"
+    },
+    {
+      "company": "Hiperstream",
+      "position": "Analista de Implementação",
+      "period": "07/2024 - 10/2024",
+      "description": "Implementação de soluções, suporte técnico, desenvolvimento Angular e documentação"
+    },
+    {
+      "company": "Itaú Unibanco",
+      "position": "Analista Júnior",
+      "period": "07/2020 - 02/2024",
+      "description": "Desenvolvimento full-stack, AWS, Angular, BPMN, Splunk, Docker e sistemas de alto volume"
+    },
+    {
+      "company": "Zicard The Trade Marketing Agency",
+      "position": "Analista Júnior",
+      "period": "08/2018 - 07/2020",
+      "description": "Desenvolvimento ASP.Net, SQL Server, Angular, Bootstrap e sistemas híbridos"
+    }
+  ],
+  "certifications": [
+    "AWS: Fundamentos e Serviços Essenciais",
+    "Docker: Containerização de Aplicações",
+    "Angular: Fundamentos e Boas Práticas",
+    "Java e Orientação a Objetos",
+    "Bancos de Dados NoSQL: MongoDB e Redis",
+    "Python Imersão de Dados",
+    "Desenvolvimento em Power Apps"
+  ],
+  "last_updated": "2025-09-15T16:14:21.733331"
+}
